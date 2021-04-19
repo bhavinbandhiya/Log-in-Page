@@ -2,6 +2,6 @@
 
 <img src="https://github.com/bhavinbandhiya/Log-in-Page/blob/master/img/ss1.jpg" hight="50%" alt="" />
 
-<img src="https://github.com/bhavinbandhiya/Log-in-Page/blob/master/img/ss2.jpg"  alt="" />
+<img src="https://github.com/bhavinbandhiya/Log-in-Page/blob/master/img/ss2.jpg" hight="50%" alt="" />
 
 
